@@ -1,7 +1,7 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-  baseURL: 'http://localhost:3333',
+  baseURL: "https://api-be-the-hero.onrender.com/",
 });
 
 export default api;
