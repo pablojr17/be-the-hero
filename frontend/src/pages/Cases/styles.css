@@ -84,7 +84,7 @@
 
 .profile-container ul li {
   background: #fff;
-  padding: 24px;
+  padding: 32px;
   border-radius: 8px;
   position: relative;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
@@ -97,7 +97,7 @@
   border-top-right-radius: 8px;
   background-color: #e02041;
   color: #f4f4f5;
-  padding: 8px;
+  padding: 6px;
 }
 
 .profile-container ul li .dados {
