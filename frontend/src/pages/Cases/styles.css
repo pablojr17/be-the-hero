@@ -90,6 +90,16 @@
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
+.profile-container ul li .ong {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-top-right-radius: 8px;
+  background-color: #e02041;
+  color: #f4f4f5;
+  padding: 8px;
+}
+
 .profile-container ul li .dados {
   display: flex;
   align-items: center;

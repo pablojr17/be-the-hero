@@ -82,6 +82,10 @@ export default function Cases() {
               <p>Caso: {incident.title}</p>
             </div>
 
+            <div className="ong">
+              <span>Ong: {incident.name}</span>
+            </div>
+
             <strong>DESCRIÇÂO:</strong>
             <p>{incident.description}</p>
 
